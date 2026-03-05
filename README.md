@@ -1,13 +1,10 @@
 # riverrun
 
-A command-line utility that prints a random quote from James Joyce's *Finnegans Wake*.
-
+riverrun. A small C program similar to Fortune that prints a random quote from James Joyce's Finnegans Wake. A way a lone a last a loved a long the
 ```
 $ riverrun
 Three quarks for Muster Mark!
 ```
-
-Every invocation draws a different fragment from the Wake — from thunderwords to lullabies, riddles to reveries.
 
 ## Install
 
@@ -43,9 +40,3 @@ Just type it:
 ```
 $ riverrun
 ```
-
-One quote. Then gone. Like the river.
-
-## License
-
-Public domain. Joyce's words are out of copyright. The code is yours.
