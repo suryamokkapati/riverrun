@@ -3,7 +3,10 @@
 riverrun. A small C program similar to Fortune that prints a random quote from James Joyce's Finnegans Wake. A way a lone a last a loved a long the
 ```
 $ riverrun
-Three quarks for Muster Mark!
+The fall (bababadalgharaghtakamminarronnkonnbronntonner-   
+ronntuonnthunntrovarrhounawnskawntoohoohoordenenthur-  
+nuk!) of a once wallstrait oldparr is retaled early in bed and later  
+on life down through all christian minstrelsy.
 ```
 
 ## Install
