@@ -38,8 +38,6 @@ No dependencies beyond a C99 compiler.
 
 ## Usage
 
-Just type it:
-
 ```
 $ riverrun
 ```
